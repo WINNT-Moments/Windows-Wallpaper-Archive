@@ -6,3 +6,5 @@ There are a LOT of wallpapers in this repository. If you want, you can recommend
 If one of the files said it was modified in recent times, it's probably because I used the file, or because it was on a newer installation.
 
 Edit: Added more Longhorn wallpapers!
+
+To be added: Windows Embedded POSready 2009 wallpapers.
