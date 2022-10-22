@@ -7,4 +7,4 @@ If one of the files said it was modified in recent times, it's probably because 
 
 Edit: Added more Longhorn wallpapers!
 
-To be added: Windows Embedded POSready 2009 wallpapers.
+Not sure what to add next. I'll try some type of exotic Windows 8, or 7 build, probably.
