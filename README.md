@@ -8,3 +8,6 @@ If one of the files said it was modified in recent times, it's probably because 
 Edit: Added more Longhorn wallpapers!
 
 Not sure what to add next. I'll try some type of exotic Windows 8, or 7 build, probably.
+
+For Windows 11 wallpapers, refer to:
+https://github.com/WINNT-Moments/Windows-11-Wallpaper-Collection
